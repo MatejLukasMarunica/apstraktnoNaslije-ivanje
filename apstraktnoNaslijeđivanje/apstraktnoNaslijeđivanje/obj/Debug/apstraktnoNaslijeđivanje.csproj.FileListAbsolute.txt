@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\apstraktnoNaslijeđivanje\apstraktnoNaslijeđivanje\bin\Debug\apstraktnoNaslijeđivanje.exe.config
+C:\Users\PC\source\repos\apstraktnoNaslijeđivanje\apstraktnoNaslijeđivanje\bin\Debug\apstraktnoNaslijeđivanje.exe
+C:\Users\PC\source\repos\apstraktnoNaslijeđivanje\apstraktnoNaslijeđivanje\bin\Debug\apstraktnoNaslijeđivanje.pdb
+C:\Users\PC\source\repos\apstraktnoNaslijeđivanje\apstraktnoNaslijeđivanje\obj\Debug\apstraktnoNaslijeđivanje.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\apstraktnoNaslijeđivanje\apstraktnoNaslijeđivanje\obj\Debug\apstraktnoNaslijeđivanje.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\apstraktnoNaslijeđivanje\apstraktnoNaslijeđivanje\obj\Debug\apstraktnoNaslijeđivanje.exe
+C:\Users\PC\source\repos\apstraktnoNaslijeđivanje\apstraktnoNaslijeđivanje\obj\Debug\apstraktnoNaslijeđivanje.pdb
